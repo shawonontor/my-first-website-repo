@@ -1,5 +1,6 @@
 div{
     background-color: aquamarine;
     color: brown;
-    margin: 0;
+    margin: 10px;
+    padding: 20px;
 }
